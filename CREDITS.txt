@@ -1,6 +1,6 @@
 PlayWit Creations - creature models
 
-The models in this pack are other people's openly licensed work, changed for our server.
+The four creatures below are other people's openly licensed work, changed for our server.
 The changed models (.bbmodel source) are published next to this pack.
 
 Shardling (qm_shardling)
@@ -22,5 +22,7 @@ Mossback (qm_mossback)
   from:    Plant spider by Ole Henrik Stabell (Hennamann), Mist-Monsters @821c09b (https://github.com/Hennamann/Mist-Monsters), MIT
   changes: move animation renamed to walk, idle sway added
   license: licenses/Hennamann__Mist-Monsters.txt
+
+The Nemeses (Frostfell Revenant, Radiant Sentinel, Galvanic Warden, Hollow Reaper, Chronophage, Gravemaw, Gemheart Colossus, Shearwing Mantis, Kryptarch) are original models made for PlayWit Creations.
 
 Rendered in game by BetterModel (https://github.com/toxicity188/BetterModel, MIT).
