@@ -1,0 +1,26 @@
+PlayWit Creations - creature models
+
+The models in this pack are other people's openly licensed work, changed for our server.
+The changed models (.bbmodel source) are published next to this pack.
+
+Shardling (qm_shardling)
+  from:    Amethyst turtle by Starcatcher21, Stargazer-Minecraft-Mod @066bce2 (https://github.com/Starcatcher21/Stargazer-Minecraft-Mod), MIT
+  changes: crystals moved into glowing groups, walk animation renamed, idle animation added
+  license: licenses/Starcatcher21__Stargazer-Minecraft-Mod.txt
+
+Ember Wisp (qm_wisp)
+  from:    WindElemental by Nexusrealms, creature-mod @2b57df2 (https://github.com/Nexusrealms/creature-mod), MIT
+  changes: frame recoloured from blue to ember orange/red, all parts glow, idle bob added
+  license: licenses/Nexusrealms__creature-mod.txt
+
+Abyss Jelly (qm_jelly)
+  from:    Jellyfish from TerraFirmaCraft @54642af (https://github.com/TerraFirmaCraft/TerraFirmaCraft), EUPL-1.2
+  changes: wrapped in one glowing root group, idle animation (bob, bell pulse, tentacle sway) added
+  license: licenses/TerraFirmaCraft__TerraFirmaCraft.txt
+
+Mossback (qm_mossback)
+  from:    Plant spider by Ole Henrik Stabell (Hennamann), Mist-Monsters @821c09b (https://github.com/Hennamann/Mist-Monsters), MIT
+  changes: move animation renamed to walk, idle sway added
+  license: licenses/Hennamann__Mist-Monsters.txt
+
+Rendered in game by BetterModel (https://github.com/toxicity188/BetterModel, MIT).
