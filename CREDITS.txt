@@ -23,6 +23,6 @@ Mossback (qm_mossback)
   changes: move animation renamed to walk, idle sway added
   license: licenses/Hennamann__Mist-Monsters.txt
 
-The Nemeses (Frostfell Revenant, Radiant Sentinel, Galvanic Warden, Hollow Reaper, Chronophage, Gravemaw, Gemheart Colossus, Shearwing Mantis, Kryptarch) are original models made for PlayWit Creations.
+Original models made for PlayWit Creations, MIT licensed (see LICENSE in the pack repo): Frostfell Revenant, Radiant Sentinel, Galvanic Warden, Hollow Reaper, Chronophage, Gravemaw, Gemheart Colossus, Shearwing Mantis, Kryptarch, Server (the companion).
 
 Rendered in game by BetterModel (https://github.com/toxicity188/BetterModel, MIT).
