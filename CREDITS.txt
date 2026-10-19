@@ -1,6 +1,6 @@
 PlayWit Creations - creature models
 
-This pack holds 14 models: 4 are other people's openly licensed work, changed for our server, and 10 were made for the server.
+This pack holds 15 models: 4 are other people's openly licensed work, changed for our server, and 11 were made for the server.
 The models as they are in this pack (.bbmodel source) are published next to it:
 https://github.com/PlayWitIt/PlayWitXreationsResP (models/).
 
@@ -37,7 +37,7 @@ Mossback (qm_mossback) - a forest creature that charges
   changed:   move animation renamed to walk, idle sway added
 
 ========================================================================
-Models made for PlayWit Creations (10)
+Models made for PlayWit Creations (11)
 ========================================================================
 
 Frostfell Revenant (qm_frostfell) - the Pyromancer's Nemesis: a revenant in pale ice, its heart still burning cold
@@ -86,6 +86,11 @@ Gemheart Colossus (qm_gemheart) - the World Shaper's Nemesis: an earth giant of 
   license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
 
 Server (qc_server) - the server's companion: her glowing eyes
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+Tempest Cloud (qm_stormcloud) - the Stormcaster's storm cells: a thunderhead that lights up inside as it strikes
   made by:   PlayWit Creations
   copyright: Copyright (c) 2026 Jonathan Wit
   license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
