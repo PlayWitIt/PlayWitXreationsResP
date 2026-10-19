@@ -1,28 +1,95 @@
 PlayWit Creations - creature models
 
-The four creatures below are other people's openly licensed work, changed for our server.
-The changed models (.bbmodel source) are published next to this pack.
+This pack holds 14 models: 4 are other people's openly licensed work, changed for our server, and 10 were made for the server.
+The models as they are in this pack (.bbmodel source) are published next to it:
+https://github.com/PlayWitIt/PlayWitXreationsResP (models/).
 
-Shardling (qm_shardling)
-  from:    Amethyst turtle by Starcatcher21, Stargazer-Minecraft-Mod @066bce2 (https://github.com/Starcatcher21/Stargazer-Minecraft-Mod), MIT
-  changes: crystals moved into glowing groups, walk animation renamed, idle animation added
-  license: licenses/Starcatcher21__Stargazer-Minecraft-Mod.txt
+========================================================================
+Models by other people (4)
+========================================================================
 
-Ember Wisp (qm_wisp)
-  from:    WindElemental by Nexusrealms, creature-mod @2b57df2 (https://github.com/Nexusrealms/creature-mod), MIT
-  changes: frame recoloured from blue to ember orange/red, all parts glow, idle bob added
-  license: licenses/Nexusrealms__creature-mod.txt
+Shardling (qm_shardling) - a small crystal creature of deep caves
+  made by:   Starcatcher21 (amethyst turtle, Stargazer-Minecraft-Mod)
+  copyright: Copyright (c) 2026 Starcatcher
+  source:    https://github.com/Starcatcher21/Stargazer-Minecraft-Mod @066bce2, src/main/resources/assets/stargazer/geckolib/models/entity/turtle.bbmodel
+  license:   MIT - full text in licenses/Starcatcher21__Stargazer-Minecraft-Mod.txt
+  changed:   crystals moved into glowing groups, walk animation renamed, idle animation added
 
-Abyss Jelly (qm_jelly)
-  from:    Jellyfish from TerraFirmaCraft @54642af (https://github.com/TerraFirmaCraft/TerraFirmaCraft), EUPL-1.2
-  changes: wrapped in one glowing root group, idle animation (bob, bell pulse, tentacle sway) added
-  license: licenses/TerraFirmaCraft__TerraFirmaCraft.txt
+Ember Wisp (qm_wisp) - a Nether fire spirit
+  made by:   Nexusrealms (WindElemental, creature-mod)
+  copyright: Copyright (c) 2025 Nexusrealms
+  source:    https://github.com/Nexusrealms/creature-mod @2b57df2, bbmodel/WindElemental.bbmodel
+  license:   MIT - full text in licenses/Nexusrealms__creature-mod.txt
+  changed:   frame recoloured from blue to ember orange/red, all parts glow, idle bob added
 
-Mossback (qm_mossback)
-  from:    Plant spider by Ole Henrik Stabell (Hennamann), Mist-Monsters @821c09b (https://github.com/Hennamann/Mist-Monsters), MIT
-  changes: move animation renamed to walk, idle sway added
-  license: licenses/Hennamann__Mist-Monsters.txt
+Abyss Jelly (qm_jelly) - a glowing ocean jellyfish
+  made by:   the TerraFirmaCraft team (Jellyfish, TerraFirmaCraft)
+  copyright: Licensed under the EUPL
+  source:    https://github.com/TerraFirmaCraft/TerraFirmaCraft @54642af, resources/entity_models/Jellyfish.bbmodel
+  license:   EUPL-1.2 - full text in licenses/TerraFirmaCraft__TerraFirmaCraft.txt
+  changed:   wrapped in one glowing root group, idle animation (bob, bell pulse, tentacle sway) added
 
-Original models made for PlayWit Creations, MIT licensed (see LICENSE in the pack repo): Frostfell Revenant, Radiant Sentinel, Galvanic Warden, Hollow Reaper, Chronophage, Gravemaw, Gemheart Colossus, Shearwing Mantis, Kryptarch, Server (the companion).
+Mossback (qm_mossback) - a forest creature that charges
+  made by:   Ole Henrik Stabell / Hennamann (plant spider, Mist-Monsters)
+  copyright: Copyright (c) 2022 Ole Henrik Stabell
+  source:    https://github.com/Hennamann/Mist-Monsters @821c09b, models/plant_spider.bbmodel
+  license:   MIT - full text in licenses/Hennamann__Mist-Monsters.txt
+  changed:   move animation renamed to walk, idle sway added
 
-Rendered in game by BetterModel (https://github.com/toxicity188/BetterModel, MIT).
+========================================================================
+Models made for PlayWit Creations (10)
+========================================================================
+
+Frostfell Revenant (qm_frostfell) - the Pyromancer's Nemesis: a revenant in pale ice, its heart still burning cold
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+Radiant Sentinel (qm_radiant) - the Shadowblade's Nemesis: a faceless warden of white light that floats over the sand
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+Galvanic Warden (qm_galvanic) - the Stormcaster's Nemesis: a copper colossus whose rod drinks the storm
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+Hollow Reaper (qm_hollow) - the Void Reaper's Nemesis: empty armour with a void where its master should be
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+Chronophage (qm_chronophage) - the Warlock's Nemesis: a brass time-eater with a great clock for an eye
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+Gravemaw (qm_gravemaw) - the Goddess's Nemesis: a levitating monolith with a maw, dragging an inverted anchor
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+Shearwing Mantis (qm_mantis) - the Web Slinger's Nemesis: a jade mantis with scythe arms and wind-cutting wings
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+Kryptarch (qm_kryptarch) - the Kryptonian's Nemesis: a basalt brute grown through with living kryptonite
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+Gemheart Colossus (qm_gemheart) - the World Shaper's Nemesis: an earth giant of deepslate and dripstone around a heart of gems
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+Server (qc_server) - the server's companion: her glowing eyes
+  made by:   PlayWit Creations
+  copyright: Copyright (c) 2026 Jonathan Wit
+  license:   MIT - full text in licenses/PlayWit-Creations__original-models.txt
+
+========================================================================
+
+Rendered in game by BetterModel by toxicity188 (https://github.com/toxicity188/BetterModel, MIT).

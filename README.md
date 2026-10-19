@@ -9,6 +9,7 @@ creatures, in their block look.
 - **`models/`:** the changed models (Blockbench `.bbmodel`), as the pack is built from them.
 - **`CREDITS.txt` and `licenses/`:** where each model comes from, what was changed, and its license.
 
-The four creatures are other people's openly licensed work (MIT and EUPL-1.2), changed for the server; the
-Nemeses and Server are original and MIT licensed (LICENSE). See
-`CREDITS.txt`. Each model stays under its own license (in `licenses/`); `LICENSE` covers only this repo's own files.
+All 14 models are credited one by one in `CREDITS.txt`: 4 (the Shardling, Ember Wisp, Abyss Jelly and Mossback) are
+other people's openly licensed work (MIT and EUPL-1.2), changed for the server; the 10 others (the nine Nemeses
+and Server) are original and MIT licensed (LICENSE). Each model stays under its own license (in `licenses/`);
+`LICENSE` covers only this repo's own files.
